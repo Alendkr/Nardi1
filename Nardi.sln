@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nardi", "Nardi\Nardi.csproj", "{62348BCA-EC78-4EA7-B332-E6CD6BE9C069}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62348BCA-EC78-4EA7-B332-E6CD6BE9C069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62348BCA-EC78-4EA7-B332-E6CD6BE9C069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62348BCA-EC78-4EA7-B332-E6CD6BE9C069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62348BCA-EC78-4EA7-B332-E6CD6BE9C069}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9FC4E91-9A87-4C70-8F62-DD57571619A8}
+	EndGlobalSection
+EndGlobal
